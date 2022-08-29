@@ -1,0 +1,6 @@
+{
+    "configuration": "cpu=16MHzatmega168",
+    "board": "arduino:avr:pro",
+    "programmer": "arduino:usbasp",
+    "sketch": "receiver.ino"
+}

@@ -1,0 +1,12 @@
+上位机：
+QT	5.12.12版本     下载地址：https://download.qt.io/archive/qt/5.12/5.12.12/		也可以直接找王量或者王千傲拷贝安装文件		教学：https://www.bilibili.com/video/BV1XW411x7NU?spm_id_from=333.999.0.0&vd_source=007080e958cb0b4bf6e734fb88176bf6				
+	
+下位机：
+arduino	直接去官网下载即可		教学：https://www.bilibili.com/video/BV164411J7GE?spm_id_from=333.999.0.0
+
+电路板：
+立创EDA专业版		下载地址：直接去官网下载      教学：https://www.bilibili.com/video/BV1gW4y1k7J2?spm_id_from=333.999.0.0&vd_source=007080e958cb0b4bf6e734fb88176bf6
+
+电路图：手柄和控制器的排查表板
+上位机：qt
+下位机：分为手柄和下位机两个部分
